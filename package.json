@@ -2,5 +2,11 @@
   "name": "kiDocs",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gitbook-plugin-advanced-emoji": "^0.2.2",
+    "gitbook-plugin-back-to-top-button": "^0.1.4",
+    "gitbook-plugin-insert-logo": "^0.1.5",
+    "gitbook-plugin-todo": "^0.1.3"
+  }
 }
