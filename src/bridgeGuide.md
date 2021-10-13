@@ -30,7 +30,7 @@
  - Request Pending
 
 ![10.pending](../images/bridge/10.pending.jpg)
- - Please Wait Node Fulfiling
+ - Please Wait Node Fulfilling
 
 ![11.fulfilling](../images/bridge/11.fulfilling.jpg)
  - Change Network To Claim
