@@ -42,7 +42,7 @@
  - Claim
 
 ![14.claim](../images/bridge/14.claim.jpg)
- - Confrim in Wallet
+ - Confirm in Wallet
 
 ![15.claimMeta](../images/bridge/15.claimMeta.jpg)
  - Please Wait Node Fulfiling
