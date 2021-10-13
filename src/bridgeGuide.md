@@ -45,7 +45,7 @@
  - Confirm in Wallet
 
 ![15.claimMeta](../images/bridge/15.claimMeta.jpg)
- - Please Wait Node Fulfiling
+ - Please Wait Node Fulfilling
 
 ![16.waitFul](../images/bridge/16.waitFul.jpg)
  - Finished
